@@ -1,0 +1,64 @@
+SV-01	What if the document is in landscape format?
+SV-02	What if the document is in portrait format?
+SV-03	What if the document is upside down or rotated sideways?
+SV-04	What if the PDF contains images instead of actual text?
+SV-05	What if the PDF contains both text and images?
+SV-06	What if the PDF has multiple pages and the signature is on a different page?
+SV-07	What if each page has multiple signatures?
+SV-08	What if the document contains signatures of both the account holder and guarantor?
+SV-09	What if the document contains signatures of the borrower, co-borrower and guarantor?
+SV-10	What if we cannot identify which signature belongs to which person?
+SV-11	What if a company director and an authorised signatory both sign the document?
+SV-12	What if the signature overlaps with a stamp?
+SV-13	What if a stamp is covering part of the signature?
+SV-14	What if the signature overlaps with printed text or table lines?
+SV-15	What if half of the signature is on one image and the other half is on another image?
+SV-16	What if the signature is cut off at the edge of the page?
+SV-17	What if the signature is too small to detect?
+SV-18	What if the signature is very faint or unclear?
+SV-19	What if the image is blurred or has low resolution?
+SV-20	What if the document has shadows, folds or poor lighting?
+SV-21	What if the document contains handwritten information everywhere?
+SV-22	What if the signature is written in blue ink and the reference is in black ink?
+SV-23	What if the signature is surrounded by handwritten names, dates or other marks?
+SV-24	What if the system detects a handwritten name as a signature?
+SV-25	What if the system detects a stamp, logo or printed text as a signature?
+SV-26	What if the document contains no signature?
+SV-27	What if the signature exists but the system cannot detect it?
+SV-28	What if the system detects the same signature multiple times?
+SV-29	What if the same document or page is uploaded more than once?
+SV-30	What if the PDF contains different documents merged into one file?
+SV-31	What if the document pages are uploaded in the wrong order?
+SV-32	What if the document is damaged, corrupted or password-protected?
+SV-33	What if the signature is present as an embedded image in a digital PDF?
+SV-34	What if the document contains an electronic signature instead of a handwritten signature?
+SV-35	What if the PDF displays a signature image but has no verifiable digital signature?
+SV-36	What if an electronically signed PDF has been modified after signing?
+SV-37	What if the electronic signature certificate is invalid or expired?
+SV-38	What if the reference signature is missing from the bank's records?
+SV-39	What if the bank's specimen signature is unclear or low quality?
+SV-40	What if the wrong person's reference signature is retrieved?
+SV-41	What if the same customer has multiple specimen signatures registered with the bank?
+SV-42	What if the customer's signature has changed over time?
+SV-43	What if a genuine signature looks different from the reference signature?
+SV-44	What if two different people have very similar signatures?
+SV-45	What if someone copies and pastes a genuine signature image into the document?
+SV-46	What if someone imitates or forges the signature?
+SV-47	What if cropping removes part of the signature?
+SV-48	What if image cleaning accidentally removes some signature strokes?
+SV-49	What if the questioned signature and reference signature have different sizes or angles?
+SV-50	What if the system detects multiple signatures but compares them against the same reference by mistake?
+SV-51	What if the signature comparison result is unclear or falls between the accepted thresholds?
+SV-52	What if the system incorrectly marks a forged signature as a match?
+SV-53	What if the system incorrectly marks a genuine signature as a mismatch?
+SV-54	What if the signature is missing from a required document?
+SV-55	What if the document requires two signatures but only one is present?
+SV-56	What if the signature is present but belongs to an unauthorised person?
+SV-57	What if the document contains a thumb impression instead of a signature?
+SV-58	What if a witness or bank officer's signature is mistaken for the customer's signature?
+SV-59	What if some images match the account-holder specimen and other images do not?
+SV-60	What if the signature comparison process crashes or times out?
+SV-61	What if the system processes a large PDF containing many signatures?
+SV-62	What if the same signature produces different results when processed more than once?
+SV-63	What if a signature cannot be verified automatically and needs manual review?
+SV-64	What if the system cannot retrieve the correct page or original image for manual review?

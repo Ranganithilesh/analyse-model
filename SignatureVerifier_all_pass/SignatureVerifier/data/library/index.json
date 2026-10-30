@@ -1,0 +1,81 @@
+{
+ "ALICE": {
+  "name": "Alice Rao",
+  "specimens": [
+   {
+    "file": "s3307201494_0",
+    "date": "2021-03-01",
+    "quality": 1.0,
+    "note": "",
+    "low_quality": false
+   },
+   {
+    "file": "s3307201677_1",
+    "date": "2024-06-15",
+    "quality": 1.0,
+    "note": "",
+    "low_quality": false
+   }
+  ]
+ },
+ "BOB": {
+  "name": "Bob Menon",
+  "specimens": [
+   {
+    "file": "s3307201854_0",
+    "date": "2022-01-10",
+    "quality": 1.0,
+    "note": "",
+    "low_quality": false
+   }
+  ]
+ },
+ "CAROL": {
+  "name": "Carol Iyer",
+  "specimens": [
+   {
+    "file": "s3307202050_0",
+    "date": "2022-01-10",
+    "quality": 1.0,
+    "note": "",
+    "low_quality": false
+   }
+  ]
+ },
+ "DAVE": {
+  "name": "Dave Nair",
+  "specimens": [
+   {
+    "file": "s3307202298_0",
+    "date": "2022-01-10",
+    "quality": 1.0,
+    "note": "",
+    "low_quality": false
+   }
+  ]
+ },
+ "CUST1234": {
+  "name": "SAILESH",
+  "specimens": [
+   {
+    "file": "s3337849339_0",
+    "date": "2026-10-30",
+    "quality": 1.0,
+    "note": "Wide cropped specimen: all pen-ink components combined into one complete signature.",
+    "low_quality": false
+   }
+  ]
+ },
+ "CUST152673": {
+  "name": "NITHILESH",
+  "specimens": [
+   {
+    "file": "s3338143618_0",
+    "date": "2026-10-30",
+    "quality": 1.0,
+    "note": "Wide cropped specimen: all pen-ink components combined into one complete signature.",
+    "low_quality": false
+   }
+  ]
+ }
+}

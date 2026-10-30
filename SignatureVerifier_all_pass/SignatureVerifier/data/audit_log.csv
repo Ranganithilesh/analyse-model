@@ -1,0 +1,8 @@
+time,user,action,document,item,decision,note
+2026-10-30T03:01:08,reviewer,quick_verify,form.png,borrower:ALICE,NOT APPROVED,score 30
+2026-10-30T03:01:10,reviewer,quick_verify,form.png,guarantor:BOB,NOT APPROVED,score 28
+2026-10-30T03:01:14,reviewer,quick_verify,02.pdf,borrower:ALICE,APPROVED,score 81
+2026-10-30T03:01:16,reviewer,quick_verify,02.pdf,guarantor:BOB,NOT APPROVED,score 43
+2026-10-30T10:55:00,reviewer,quick_verify,ABC Bank Loan Application Form.png,borrower:CUST1234,APPROVED,score 69
+2026-10-30T10:56:23,reviewer,quick_check,ABC Bank Loan Application Form.png,CUST1234 · 2026-10-30,APPROVED,score 69
+2026-10-30T10:59:34,reviewer,quick_verify,images (1).jpg,borrower:CUST152673,APPROVED,score 89
